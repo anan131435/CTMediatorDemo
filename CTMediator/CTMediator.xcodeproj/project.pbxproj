@@ -17,6 +17,8 @@
 		7376B277227BE1CD004D1243 /* CTMediator+ModuleAActions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7376B276227BE1CD004D1243 /* CTMediator+ModuleAActions.m */; };
 		7376B27A227BECA2004D1243 /* Target_A.m in Sources */ = {isa = PBXBuildFile; fileRef = 7376B279227BECA2004D1243 /* Target_A.m */; };
 		7376B280227BEE36004D1243 /* DemoModuleADetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7376B27F227BEE36004D1243 /* DemoModuleADetailViewController.m */; };
+		7376B283227C1F46004D1243 /* NSInVocationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7376B282227C1F46004D1243 /* NSInVocationViewController.m */; };
+		7376B286227C1FAE004D1243 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7376B285227C1FAE004D1243 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,10 @@
 		7376B279227BECA2004D1243 /* Target_A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Target_A.m; sourceTree = "<group>"; };
 		7376B27E227BEE36004D1243 /* DemoModuleADetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoModuleADetailViewController.h; sourceTree = "<group>"; };
 		7376B27F227BEE36004D1243 /* DemoModuleADetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoModuleADetailViewController.m; sourceTree = "<group>"; };
+		7376B281227C1F46004D1243 /* NSInVocationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NSInVocationViewController.h; sourceTree = "<group>"; };
+		7376B282227C1F46004D1243 /* NSInVocationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSInVocationViewController.m; sourceTree = "<group>"; };
+		7376B284227C1FAE004D1243 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		7376B285227C1FAE004D1243 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +88,10 @@
 				7376B279227BECA2004D1243 /* Target_A.m */,
 				7376B27E227BEE36004D1243 /* DemoModuleADetailViewController.h */,
 				7376B27F227BEE36004D1243 /* DemoModuleADetailViewController.m */,
+				7376B281227C1F46004D1243 /* NSInVocationViewController.h */,
+				7376B282227C1F46004D1243 /* NSInVocationViewController.m */,
+				7376B284227C1FAE004D1243 /* TestViewController.h */,
+				7376B285227C1FAE004D1243 /* TestViewController.m */,
 				7376B262227ADF20004D1243 /* Main.storyboard */,
 				7376B265227ADF21004D1243 /* Assets.xcassets */,
 				7376B267227ADF21004D1243 /* LaunchScreen.storyboard */,
@@ -162,10 +172,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				7376B261227ADF20004D1243 /* ViewController.m in Sources */,
+				7376B283227C1F46004D1243 /* NSInVocationViewController.m in Sources */,
 				7376B26C227ADF21004D1243 /* main.m in Sources */,
 				7376B277227BE1CD004D1243 /* CTMediator+ModuleAActions.m in Sources */,
 				7376B25E227ADF20004D1243 /* AppDelegate.m in Sources */,
 				7376B27A227BECA2004D1243 /* Target_A.m in Sources */,
+				7376B286227C1FAE004D1243 /* TestViewController.m in Sources */,
 				7376B280227BEE36004D1243 /* DemoModuleADetailViewController.m in Sources */,
 				7376B274227ADF43004D1243 /* CTMediator.m in Sources */,
 			);

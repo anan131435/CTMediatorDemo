@@ -20,6 +20,7 @@
     [self.view addSubview: _valueLabel];
     [self.view addSubview: _imageView];
     [self.view addSubview: _returnButton];
+    
 }
 
 - (void)didTappedReturnButton:(UIButton *)button{
